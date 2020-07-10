@@ -6,8 +6,8 @@
 </p>
 <br>
 <p align="left">
-<img width="20%" height="5%" src="library.png"/>
+<img width="30%" height="5%" src="library.png"/>
 </p>
-<p align="center">
-<img width="20%" height="5%" src="others.png"/>
+<p align="left">
+<img width="30%" height="5%" src="others.png"/>
 </p>
