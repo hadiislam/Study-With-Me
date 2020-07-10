@@ -10,5 +10,5 @@
 <img width="90%" height="5%" src="library.png"/>
 </p>
 <p align="center">
-<img width="90%" height="5%" src="other.png"/>
+<img width="90%" height="5%" src="others.png"/>
 </p>
